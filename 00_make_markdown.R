@@ -31,7 +31,10 @@ for (i in seq_along(files)){
 }
 
 # Create references   
-# NOTE: some times you have to delete the last part in quotes  
+
+# Set quotes to be straight   
+old.o <- options(useFancyQuotes = FALSE)
+
 for (i in seq_along(files)){
   cat("[", plotref[i], "]:", " Figures/", folder, "/", files[i], " ", dQuote("map"), "\n", sep = "")
 }

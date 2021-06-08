@@ -24,8 +24,8 @@ get_gridded_data(utm_x, utm_y, "tm")
 ![Norway discharge map][RefClim08]  
 
 
-## seksjon 318 - Elveovervakning  
-
+## Elveovervakning   
+*In folder/project 'seksjon 318'  
 
 ### 2020 / Script 07_1   
 
@@ -51,6 +51,22 @@ get_gridded_data(utm_x, utm_y, "tm")
 ![20_4stations_2021_osm.png][318_Elveovervakning_5_20]   
 
 
+## okostor_maps   
+*Folder: Seksjon 319*   
+
+### Script 02 
+  
+Per-lake maps  
+* Using OpenStreetMap package for the background, points/labels added using `points` and `text`  
+* Nice and pretty generic functions for getting postitions for plotting scale and legend (`get_scale_positions` and `get_legend_positions`)     
+Overview map  
+* best result using ggplot + GeoNorge data   
+* background map = coast contour + counties) 
+* lake geodata from K
+
+![okostor_maps_01.png][okostor_maps_01]  
+![okostor_maps_02.png][okostor_maps_02]  
+
 
 
 
@@ -64,4 +80,6 @@ get_gridded_data(utm_x, utm_y, "tm")
 [318_Elveovervakning_2_07]: Figures/318_Elveovervakning/07b_labelmap_nolegend.png "Norway map w/ names"
 [318_Elveovervakning_3_07]: Figures/318_Elveovervakning/07c_qualitymap_complete.png "Norway map w/ pie charts"
 [318_Elveovervakning_4_20]: Figures/318_Elveovervakning/20_4stations_2021_bing.png "Local satellite map w/ pies and river"
-[318_Elveovervakning_5_20]: Figures/318_Elveovervakning/20_4stations_2021_osm.png
+[318_Elveovervakning_5_20]: Figures/318_Elveovervakning/20_4stations_2021_osm.png  
+[okostor_maps_01]: Figures/okostor_maps/okostor_maps_01.png
+[okostor_maps_02]: Figures/okostor_maps/okostor_maps_02.png
