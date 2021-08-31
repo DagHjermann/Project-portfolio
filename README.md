@@ -1,6 +1,13 @@
 # Project-portfolio
 Illustrated portfolio of projects  
 
+<!-- Run this script by using the 'Preview' button --> 
+
+## Index
+[Referanseelver_2018](https://github.com/DagHjermann/Project-portfolio#referanseelver_2018climate)  
+[Elveovervakning](https://github.com/DagHjermann/Project-portfolio#elveovervakning)  
+[okostor_maps](https://github.com/DagHjermann/Project-portfolio#okostor_maps)  
+
 ## Referanseelver_2018/Climate   
 Separate R project under 'Referanseelver_2018'  
 
@@ -33,6 +40,7 @@ get_gridded_data(utm_x, utm_y, "tm")
 
 ### 2020 / Script 07b and 07c   
 * Maps with county borders (old), main rivers and Mjøsa   
+    - Note: map with new county borders: `C:\Data\Mapdata\Basisdata_0000_Norge_25833_NorskeFylkerKommunerIllustrasjonsdata2021_GeoJSON`        
 * Pies on map  
 * Detail charts   
 
