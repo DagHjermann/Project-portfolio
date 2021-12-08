@@ -4,7 +4,7 @@ Illustrated portfolio of projects
 <!-- Run this script by using the 'Preview' button --> 
 
 ## Index
-[Referanseelver_2018](https://github.com/DagHjermann/Project-portfolio#referanseelver_2018climate)  
+[Referanseelver_2018](## Referanseelver_2018) - [Project folder](https://github.com/DagHjermann/Project-portfolio#referanseelver_2018climate)    
 [Elveovervakning](https://github.com/DagHjermann/Project-portfolio#elveovervakning)  
 [okostor_maps](https://github.com/DagHjermann/Project-portfolio#okostor_maps)  
 
