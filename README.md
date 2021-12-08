@@ -4,13 +4,10 @@ Illustrated portfolio of projects
 <!-- Run this script by using the 'Preview' button --> 
 
 ## Index
-<!-- links to sections: use hashtags with no space after, and exact header with no capital letters --> 
-[Referanseelver_2018](https://github.com/DagHjermann/Project-portfolio#referanseelver_2018---folder-climate)
-- [Project folder](https://github.com/DagHjermann/Project-portfolio#referanseelver_2018climate)    
-[Elveovervakning](https://github.com/DagHjermann/Project-portfolio#elveovervakning)
-- [Project folder](https://github.com/DagHjermann/Project-portfolio#elveovervakning)  
-[okostor_maps](https://github.com/DagHjermann/Project-portfolio#okostor_maps)
-- [Project folder](https://github.com/DagHjermann/Project-portfolio#okostor_maps)  
+<!-- links to sections: in Github, right-click 'chain icon' in the heading to copy link --> 
+[Referanseelver_2018](https://github.com/DagHjermann/Project-portfolio#referanseelver_2018---folder-climate) - [Project folder](https://github.com/DagHjermann/Project-portfolio#referanseelver_2018climate)    
+[Elveovervakning](https://github.com/DagHjermann/Project-portfolio#elveovervakning) - [Project folder](https://github.com/DagHjermann/Project-portfolio#elveovervakning)  
+[okostor_maps](https://github.com/DagHjermann/Project-portfolio#okostor_maps) - [Project folder](https://github.com/DagHjermann/Project-portfolio#okostor_maps)  
 
 ## Referanseelver_2018 - folder Climate   
 Separate R project under 'Referanseelver_2018'  
