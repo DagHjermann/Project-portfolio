@@ -6,7 +6,7 @@ Illustrated portfolio of projects
 ## Index
 <!-- links to sections: use hashtags with no space after, and exact header with no capital letters --> 
 [Referanseelver_2018](##referanseelver_2018-climate) - [Project folder](https://github.com/DagHjermann/Project-portfolio#referanseelver_2018climate)    
-[Elveovervakning](##elveovervakning) - [Project folder](https://github.com/DagHjermann/Project-portfolio#elveovervakning)  
+[Elveovervakning](https://github.com/DagHjermann/Project-portfolio#elveovervakning) - [Project folder](https://github.com/DagHjermann/Project-portfolio#elveovervakning)  
 [okostor_maps](##okostor_maps) - [Project folder](https://github.com/DagHjermann/Project-portfolio#okostor_maps)  
 
 ## Referanseelver_2018 Climate   
